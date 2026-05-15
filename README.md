@@ -150,7 +150,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Developer
 
-Your Name  
+Your Name  ANURADHA H
 GitHub: https://github.com/your-username
 
 ---
@@ -166,4 +166,5 @@ If you like this project:
 
 # 🎲 Play Smart, Roll Fast, Win Big!
 🔥 Welcome to the Ludo Game App
+THANK YOU
 ````
